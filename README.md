@@ -1,4 +1,3 @@
-<div id="header" align="center">YouTubeAnalyticsAPI</div>
 
 <h1 align="center">YouTubeAnalyticsAPI <a href="https://daniilshat.ru/" target="_blank"></a> 
 <div id="header" align="center">
