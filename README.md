@@ -9,4 +9,7 @@
   </a>
 </div>
 
-### Контакты
+### Контакты:
+- vk: @niosand
+- tg: @nosipovdtech
+- gmail: nikitaosipovoffers@gmail.com
